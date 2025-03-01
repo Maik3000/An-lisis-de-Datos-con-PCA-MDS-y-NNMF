@@ -33,8 +33,9 @@ Este repositorio contiene el código y el análisis de cuatro ejercicios relacio
 - Python 3.x
 - Librerías: `numpy`, `pandas`, `matplotlib`, `scikit-learn`, `scikit-image`
 
-├── weather.csv # Datos de temperaturas mensuales
-├── crimes.dat # Matriz de correlaciones entre delitos
-├── gato.jpg # Imagen de prueba para compresión
-├── movies.csv # Información de películas
-├── ratings.csv # Calificaciones de usuarios
+## Archivos
+- weather.csv # Datos de temperaturas mensuales
+- crimes.dat # Matriz de correlaciones entre delitos
+- gato.jpg # Imagen de prueba para compresión
+- movies.csv # Información de películas
+- ratings.csv # Calificaciones de usuarios
